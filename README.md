@@ -16,19 +16,19 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-Roll-To-Prone Information Sheet
+# An Introduction to he Roll-To-Prone
 
-What proning is, and why it is done.
+## What proning is, and why it is done.
 “Proning” is turning patients from laying on their back, to lying on their belly (laying belly and face down is the prone position).  Patients who are intubated or having difficulty breathing sometimes benefit from being in the prone position.  
 What is a Roll-To-Prone?
 Roll-To-Prone (RTP) is the name given to a device to help hospital staff prone patients in their beds.
 The Roll-to-Prone is not a commercial product.  The design of the device is being made public through a Creative Commons Attribution Share Alike 4.0 International license so that hospitals that choose to can have them made and use them if they desire.  The term Roll-To-Prone refers to the specific design we developed.  We suggest that the term pronation assisting device or PAD be used as a general term to describe any device being used for that purpose.
 The Roll-To-Prone was designed to fit the Stryker Secure 3 bed.  Fitting means that the base of the Roll-To-Prone straddles the base of the bed and allows the RTP to be in the proper position.  The RTP may fit other beds, but we only have access to the Stryker Secure 3 bed.   If you determine that that the Roll-To-Prone does fit other beds please let us know.
-Why the Roll-to-Prone was developed
+# Why the Roll-to-Prone was developed
 The Roll-To-Prone was developed by Columbia Gadget Works a local non- profit “makers” group in Columbia Mo.   At the onset of the Covid-19 pandemic personal protective equipment was in short supply. Doctors at the University of Missouri anticipated a surge of patients infected with Covid-19.   They were concerned about the number of staff required to prone a patient, their potential virus exposure and the scarcity of the personal protective equipment required.   A request for assistance in ways to prone patients was sent to the UMC Department of Engineering “Hack Covid” Task Force.   Columbia Gadget works was approached by the Task Force and agreed to develop a device to assist in proning.  Several options were presented and the Roll-To-Prone was developed and tested with input from Dr. Salman Ahmad and other staff.  
-How patients are proned
+# How patients are proned
 Proning a patient is typically done by having 2 to 3 staff on each side of the patient, and another at the head of the bed.  The staff on one side pull the sheet under the patient to move the patient to the side of the bed.  They then pull up on the sheet to roll the patient onto their side, and then on over on to their belly.  The staff on the other side position the limbs, and control and guide the roll.  The staff at the head of the bed guides the head during the pronation.  If the patient is intubated they will also monitor the tubing and airway.  If the patient has multiple tubes in place, there may be additional staff to monitor these.  If the patient is larger than average, there will be additional staff needed on the sides of the bed.   After the process is started and the staff are lifting and rolling the patient a pause in the roll leaves staff on one side holding the weight of the patient.  To pronate a patient typically takes 5 to 7 staff, in a very “hands on” process.   If the patient has COVID-19 each of the staff is at risk of exposure and requires the use of PPE.  The Roll-To-Prone was developed to provide a means to pronate patients using fewer staff, thus exposing fewer staff, and using less PPE.
-How the RTP works
+# How the RTP works
 The RTP is a frame holding a roller at the side of the bed.   A sheet from under the patient is wrapped around the roller.  A crank is used to turn the roller, pulling the sheet up, rolling the patient into the prone position.  A ratchet wrench on the roller keeps the roller from reversing direction
 With some planning and preparation, it is possible to pronate the patient and at the same time remove the old flat sheet, old fitted sheet, and put on clean fitted and flat sheets under the patient.  
 What are the advantages of using the RTP?  
@@ -38,7 +38,7 @@ Fewer staff being exposed to Covid-19 means fewer staff getting Covid-19 and bei
 Additionally, more staff is available for other patient care.
 The mechanical advantage of the roller pulling the sheet and lifting the patient puts fewer nurses at risk of back injuries and other musculoskeletal injuries.  In the traditional manual method of proning a patient, the height of the bed means nursing staff must use back, shoulder and arm muscles- and do so continuously until the patient has been turned.  Back injuries and musculoskeletal injuries are significant problem for healthcare workers and healthcare facility staffing in “normal” times and are even more of a problem as need for staff increases.
 
-What staff are needed to use it?
+# What staff are needed to use it?
 The minimum number is 3, as described below.  More should be available when gaining experience with the RTP.  More may be needed for larger patients and patients with more complex medical problems and multiple tubes.  
 One person is at the head of the bed, managing the head and any associated tubing.  They will be in verbal communication with the other staff.  
 The person at the foot end of the bed is responsible for positioning the sheet on the roller, then turning the crank while visually monitoring the patient being pronated.   They monitor any tubing routed to the foot of the bed. They will adjust the rate they turn the crank to match the needs of the other staff involved. 
