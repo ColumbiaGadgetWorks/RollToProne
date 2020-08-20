@@ -16,6 +16,26 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+## **We have four documents about the Roll-To-Prone (RTP)**
+
+### An Introduction to the Roll-To-Prone     
+is below.  It provides a description of traditional methods of proning patients, why the Roll-To-Prone was developed, a brief description of how it works and the staff needed.  It  describes the advantages, disadvantages and anticipated risks.  It discusses how to obtain a RTP.   It provides our understanding of the current regulatory issues relevant to constructing and using a Roll-To-Prone.   Here is a link to it in our google drive: https://drive.google.com/file/d/1HIBnPpEBxzn2mSrsVpDTcIhReZ1zu_BN/view?usp=sharing
+ 
+### Roll-To-Prone FAQ , Component Information, and Suggested Staff Training 
+provides more detailed information about how the RTP assists in proning patients, what it can do in addition to proning the patient and what supplies are required  It discusses the minimum staff required and staff responsibilities.   There are descriptions the components of the RTP and how they function using both pictures and drawings.  There are suggestions for training of staff.  Here is a link to it in our google drive: https://drive.google.com/file/d/1Mzjb1OS-1XuEN_U1SgIf2njJl07GBex-/view?usp=sharing
+
+### Roll-To-Prone Specifications and Construction    
+provides drawings with parts named, a list of materials required to build an RTP, drawings, construction notes, specifications, and information needed to do build a RTP.  Here is a link to it in ouir google drive: https://drive.google.com/file/d/1b1rI1sNoSU2yDRxdHgtKe4GL4agIw0ka/view?usp=sharing
+
+### Modifying the RTP Design 
+explains how to determine if the RTP will fit a bed other than the Striker Secure 3 bed.  It then discussed factors to consider and evaluate in designing and building a Pronation Assisting Device (PAD) to fit a different bed.  Here is a link to itin our google drive: https://drive.google.com/file/d/1rLijrZEUdcDNdxmO3OSV8yCRwbNWwv0a/view?usp=sharing.
+
+
+
+
+
+
+
 ![foo](https://github.com/ColumbiaGadgetWorks/RollToProne/blob/master/images/RTPDevice.jpg "title")
 
 # An Introduction to The Roll-To-Prone
@@ -70,7 +90,7 @@ If a finger or hand were trapped between the retaining bar and the roller with t
 
 ## What to do if you want a Roll-To-Prone
 
-The Roll-to-Prone is not a commercially available product.  If you want one, you will have to have it built.  We are granting permission to build one using our design, and providing the necessary drawings and specifications to have one built.
+The Roll-to-Prone is not a commercially available product.  If you want one, you will have to have it built.  We are granting permission to build one using our design, and providing the necessary drawings and specifications to have one built. 
 The Columbia Gadget Works Roll-To-Prone is licensed under a Creative Commons Attribution Share Alike 4.0 International license. This license grants the use of our design so long as it is identified as our design, or a modification of it.
 
 This website also provides an opportunity to discuss you experiences with the Roll-To-Prone or other pronation assistance device (PAD).  Please let the community know of any suggestions for improvement in design or use.
