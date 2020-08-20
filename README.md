@@ -25,7 +25,7 @@ is below.  It provides a description of traditional methods of proning patients,
 provides more detailed information about how the RTP assists in proning patients, what it can do in addition to proning the patient and what supplies are required  It discusses the minimum staff required and staff responsibilities.   There are descriptions the components of the RTP and how they function using both pictures and drawings.  There are suggestions for training of staff.  Here is a link to it in our google drive: https://drive.google.com/file/d/1Mzjb1OS-1XuEN_U1SgIf2njJl07GBex-/view?usp=sharing
 
 ### Roll-To-Prone Specifications and Construction    
-provides drawings with parts named, a list of materials required to build an RTP, drawings, construction notes, specifications, and information needed to do build a RTP.  Here is a link to it in ouir google drive: https://drive.google.com/file/d/1b1rI1sNoSU2yDRxdHgtKe4GL4agIw0ka/view?usp=sharing
+provides drawings with parts named, a list of materials required to build an RTP, drawings, construction notes, specifications, and information needed to do build a RTP.  Here is a link to it in ouir google drive: https://drive.google.com/file/d/1QrrSeKrRrUjFflSVqfgwapPYGh51_ALp/view?usp=sharing
 
 ### Modifying the RTP Design 
 explains how to determine if the RTP will fit a bed other than the Striker Secure 3 bed.  It then discussed factors to consider and evaluate in designing and building a Pronation Assisting Device (PAD) to fit a different bed.  Here is a link to itin our google drive: https://drive.google.com/file/d/1rLijrZEUdcDNdxmO3OSV8yCRwbNWwv0a/view?usp=sharing.
