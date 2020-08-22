@@ -19,7 +19,7 @@ This work is licensed under a
 ## **We have four documents about the Roll-To-Prone (RTP)**
 
 ### An Introduction to the Roll-To-Prone     
-is below.  It provides a description of traditional methods of proning patients, why the Roll-To-Prone was developed, a brief description of how it works and the staff needed.  It  describes the advantages, disadvantages and anticipated risks.  It discusses how to obtain a RTP.   It provides our understanding of the current regulatory issues relevant to constructing and using a Roll-To-Prone.   Here is a link to it in our google drive: https://drive.google.com/file/d/1HIBnPpEBxzn2mSrsVpDTcIhReZ1zu_BN/view?usp=sharing
+is below.  It provides a description of traditional methods of proning patients, why the Roll-To-Prone was developed, a brief description of how it works and the staff needed.  It  describes the advantages, disadvantages and anticipated risks.  It discusses how to obtain a RTP.   It provides our understanding of the current regulatory issues relevant to constructing and using a Roll-To-Prone.   Here is a link to it in our google drive: https://drive.google.com/file/d/182th2Dl5fQ3e4c2UXt_SmKHfageZed11/view?usp=sharing
  
 ### Roll-To-Prone FAQ , Component Information, and Suggested Staff Training 
 provides more detailed information about how the RTP assists in proning patients, what it can do in addition to proning the patient and what supplies are required  It discusses the minimum staff required and staff responsibilities.   There are descriptions the components of the RTP and how they function using both pictures and drawings.  There are suggestions for training of staff.  Here is a link to it in our google drive: https://drive.google.com/file/d/1Ac9cEFHUrvGrhj9ObVe-I6KE-IIqKwqV/view?usp=sharing
@@ -152,7 +152,7 @@ https://www.fda.gov/medical-devices/emergency-use-authorizations-medical-devices
 
 This link has Frequently asked questions.  https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-emergency-use-authorizations-euas-medical-devices-during-covid-19-pandemic
 
-The RTP does not appear to fit into any of the presently established categories for Emergency Use Authorization (EUA).  There is a category for Other Medical Device EUSs, but nothing there resembles the RTP.  https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/other-medical-device-euas
+The RTP does not appear to fit into any of the presently established categories for Emergency Use Authorization (EUA).  There is a category for Other Medical Device EUSs, but nothing there resembles the RTP.   https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/other-medical-device-euas
 
-There is a template to apply for an EAU authorization. Pre-EUA-Interactive-Review-Template.docx
+There is a template to apply for an EAU authorization. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjSpqXnzK3rAhWBBs0KHfV4B8kQFjAAegQIBBAB&url=https%3A%2F%2Fwww.fda.gov%2Fmedia%2F137965%2Fdownload&usg=AOvVaw0OLWgN-KP0O21g8dMJHIDo
 
